@@ -1,2 +1,2 @@
 # coursera_cloud_duke_university
-Basic repository to learn cloud computing on Coursera and Duke University
+Basic repository to learn cloud computing with Coursera and Duke University
